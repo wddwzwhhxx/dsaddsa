@@ -36,3 +36,6 @@ write_my_train_txt.py
 
 write_my_photo.py
 挑选合适的训练图片
+
+txt2json.py
+txt格式转json格式
